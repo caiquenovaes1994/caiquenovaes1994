@@ -102,7 +102,6 @@ Progress: [████████░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
@@ -115,7 +114,6 @@ Progress: [████████░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   </p>
 
   <!-- ==================== AI & DATA ==================== -->
@@ -261,12 +259,18 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 ---
 
-### 🏆 `// [05] GITHUB TROPHIES & ACHIEVEMENTS`
+### 🏆 `// [05] GITHUB ACHIEVEMENTS & PROFILE SUMMARY`
 
 <div align="center">
-  <a href="https://github.com/caiquenovaes1994">
-    <img src="https://github-profile-trophy.vercel.app/?username=caiquenovaes1994&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiquenovaes1994&theme=tokyonight" width="95%" alt="Profile Details" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiquenovaes1994&theme=tokyonight" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiquenovaes1994&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caiquenovaes1994&theme=tokyonight&utcOffset=-3" width="32%" alt="Productive Time" />
+
 </div>
 
 ---
