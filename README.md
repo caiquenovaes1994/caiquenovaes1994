@@ -99,66 +99,70 @@ Progress: [████████░░░░░░░░░░░░░░░
   <h4>⚡ FRONTEND & INTERFACES</h4>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
+   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   </p>
 
   <!-- ==================== BACKEND ==================== -->
   <h4>⚙️ BACKEND & APIS</h4>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/NiceGUI-2B3A4A?style=flat&logo=python&logoColor=white" alt="NiceGUI" />
+    <img src="https://img.shields.io/badge/Granian_ASGI-4A154B?style=flat&logo=fastapi&logoColor=white" alt="Granian ASGI" />
+    <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=gunicorn&logoColor=white" alt="Uvicorn" />
+    <img src="https://img.shields.io/badge/HTTPX_Async-00599C?style=flat&logo=python&logoColor=white" alt="HTTPX Async" />
   </p>
 
-  <!-- ==================== AI & DATA ==================== -->
-  <h4>🧠 ARTIFICIAL INTELLIGENCE & DATA</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat&logo=anthropic&logoColor=white" alt="Anthropic" />
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
-    <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" alt="LangChain" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  </p>
-
-  <!-- ==================== DATABASES ==================== -->
-  <h4>🗄️ DATABASES & ORM</h4>
+  <!-- ==================== DATABASES & ORM ==================== -->
+  <h4>🗄️ BANCO DE DADOS, ORM & CACHE</h4>
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/SQLModel-008080?style=flat&logo=python&logoColor=white" alt="SQLModel" />
+    <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Data JPA" />
   </p>
 
-  <!-- ==================== CLOUD & DEVOPS ==================== -->
-  <h4>☁️ CLOUD & DEVOPS</h4>
+  <!-- ==================== SECURITY & LIBS ==================== -->
+  <h4>🔐 SEGURANÇA, AUTENTICAÇÃO & LIBS</h4>
   <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" alt="Spring Security" />
+    <img src="https://img.shields.io/badge/Google_OAuth2-4285F4?style=flat&logo=google&logoColor=white" alt="Google OAuth2" />
+    <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+    <img src="https://img.shields.io/badge/Bcrypt-4B8BBE?style=flat&logo=auth0&logoColor=white" alt="Bcrypt" />
+    <img src="https://img.shields.io/badge/AES_/_Fernet_Cryptography-5C2D91?style=flat&logo=shield&logoColor=white" alt="Fernet AES" />
+    <img src="https://img.shields.io/badge/Circuit_Breaker_(PyBreaker)-FF6F00?style=flat&logo=speedtest&logoColor=white" alt="Circuit Breaker" />
+    <img src="https://img.shields.io/badge/ReportLab_PDF-2B3A4A?style=flat&logo=adobeacrobatreader&logoColor=white" alt="ReportLab" />
+    <img src="https://img.shields.io/badge/jsPDF-FF3366?style=flat&logo=javascript&logoColor=white" alt="jsPDF" />
+  </p>
+
+  <!-- ==================== DEVOPS, BOTS & TOOLS ==================== -->
+  <h4>🤖 AUTOMAÇÃO, BOTS & WORKFLOW</h4>
+  <p>
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
-  </p>
-
-  <!-- ==================== TOOLS ==================== -->
-  <h4>🛠️ TOOLS & WORKFLOW</h4>
-  <p>
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Bot" />
+    <img src="https://img.shields.io/badge/WhatsApp_Bot_API-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Bot" />
+    <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat&logo=python&logoColor=white" alt="BeautifulSoup4" />
+    <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=react&logoColor=white" alt="Recharts" />
+    <img src="https://img.shields.io/badge/Google_Charts-4285F4?style=flat&logo=google&logoColor=white" alt="Google Charts" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Antigravity-7928CA?style=flat&logo=google&logoColor=white" alt="Antigravity" />
-    <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
   </p>
 
 </div>
