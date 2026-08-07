@@ -259,23 +259,7 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 ---
 
-### 🏆 `// [05] GITHUB ACHIEVEMENTS & PROFILE SUMMARY`
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiquenovaes1994&theme=tokyonight" width="95%" alt="Profile Details" />
-
-  <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiquenovaes1994&theme=tokyonight" width="32%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiquenovaes1994&theme=tokyonight" width="32%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caiquenovaes1994&theme=tokyonight&utcOffset=-3" width="32%" alt="Productive Time" />
-
-</div>
-
----
-
-### 📊 `// [06] TELEMETRY & GITHUB STATISTICS`
+### 📊 `// [05] TELEMETRY & GITHUB STATISTICS`
 
 <div align="center">
 
@@ -292,11 +276,13 @@ Progress: [████████░░░░░░░░░░░░░░░
 
   <br><br>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenovaes1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenovaes1994&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenovaes1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=8" width="42%" alt="Top Languages" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiquenovaes1994&theme=tokyonight" width="95%" alt="Profile Details" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiquenovaes1994&theme=tokyonight" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiquenovaes1994&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caiquenovaes1994&theme=tokyonight&utcOffset=-3" width="32%" alt="Productive Time" />
 
   <!-- ==================== ACTIVITY GRAPH ==================== -->
   <br><br>
@@ -307,7 +293,7 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 ---
 
-### 🐍 `// [07] SNAKE CONTRIBUTION MATRIX`
+### 🐍 `// [06] SNAKE CONTRIBUTION MATRIX`
 
 <div align="center">
   <picture>
@@ -319,7 +305,7 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 ---
 
-### 🌐 `// [08] NEURAL LINK // SOCIAL NETWORKS & CONTACT`
+### 🌐 `// [07] NEURAL LINK // SOCIAL NETWORKS & CONTACT`
 
 <div align="center">
 
