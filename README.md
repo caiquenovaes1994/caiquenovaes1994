@@ -173,17 +173,17 @@ Progress: [████████░░░░░░░░░░░░░░░
     <td width="50%" valign="top">
       <div align="center">
         <h3>⏱️ Horas Extras</h3>
-        <p><i>Sistema Inteligente de Cálculo, Controle e Gestão de Jornada de Trabalho</i></p>
+        <p><i>Sistema profissional para gestão de atendimentos e controle de horas extras com geração de relatórios PDF de alta fidelidade</i></p>
         <p>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
         </p>
       </div>
       <ul>
-        <li>Cálculo preciso de horas extras, adicionais noturnos e banco de horas</li>
-        <li>Interface intuitiva e responsiva focada na agilidade do usuário</li>
-        <li>Exportação e visualização clara de demonstrativos operacionais</li>
+        <li>Gestão completa de atendimentos com registro de entrada/saída e cálculo automático</li>
+        <li>Geração de relatórios PDF profissionais de alta fidelidade</li>
+        <li>Interface moderna construída com Reflex (Python full-stack framework)</li>
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/HorasExtras">
@@ -194,17 +194,17 @@ Progress: [████████░░░░░░░░░░░░░░░
     <td width="50%" valign="top">
       <div align="center">
         <h3>💅 Bárbara Reis Nail Designer</h3>
-        <p><i>Plataforma Web Premium de Agendamento, Catálogo e Experiência Digital</i></p>
+        <p><i>Aplicação full-stack para o estúdio Bárbara Reis: agendamentos, histórico de clientes, catálogo e resumo financeiro com glassmorphism e PWA</i></p>
         <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
         </p>
       </div>
       <ul>
-        <li>Design moderno, elegante e otimizado para conversão de clientes</li>
-        <li>Catálogo interativo de serviços e facilidade de agendamento online</li>
-        <li>Experiência mobile-first com animações fluidas e alta performance</li>
+        <li>Controle de agendamentos, histórico de clientes e catálogo de procedimentos</li>
+        <li>Resumo financeiro integrado com interface glassmorphism e responsiva</li>
+        <li>Totalmente instalável como PWA com experiência mobile-first</li>
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/BarbaraReisNailDesigner">
@@ -217,11 +217,11 @@ Progress: [████████░░░░░░░░░░░░░░░
     <td width="50%" valign="top">
       <div align="center">
         <h3>⚽ World Cup 2026</h3>
-        <p><i>Hub Interativo da Copa do Mundo 2026 com Tabela, Estatísticas e Simulações</i></p>
+        <p><i>Plataforma interativa premium para acompanhar e simular todos os jogos da Copa do Mundo FIFA 2026™</i></p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
           <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
         </p>
       </div>
       <ul>
@@ -238,17 +238,17 @@ Progress: [████████░░░░░░░░░░░░░░░
     <td width="50%" valign="top">
       <div align="center">
         <h3>🌍 GeoQuiz 3D</h3>
-        <p><i>Jogo Educativo Interativo com Globo Tridimensional e Desafios Geográficos</i></p>
+        <p><i>Plataforma imersiva de desafios geográficos com backend Java e globo 3D renderizado em tempo real</i></p>
         <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
           <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
         </p>
       </div>
       <ul>
-        <li>Visualização e navegação em 3D em tempo real de países e capitais</li>
-        <li>Mecânicas gamificadas de perguntas e respostas com pontuação dinâmica</li>
-        <li>Interface futurista e imersiva com efeitos visuais e sonoros</li>
+        <li>Backend robusto em Java com lógica de quiz e persistência de dados</li>
+        <li>Globo 3D interativo renderizado em tempo real com Three.js</li>
+        <li>Mecânicas gamificadas de perguntas geográficas com pontuação dinâmica</li>
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/GeoQuiz3D">
@@ -275,24 +275,27 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=caiquenovaes1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&count_private=true&include_all_commits=true" width="415" alt="GitHub Stats" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquenovaes1994&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff" width="415" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenovaes1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" width="415" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=caiquenovaes1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=caiquenovaes1994&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=caiquenovaes1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caiquenovaes1994&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=caiquenovaes1994&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=caiquenovaes1994&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff" width="49%" alt="GitHub Streak" />
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenovaes1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenovaes1994&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenovaes1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=8" width="42%" alt="Top Languages" />
+  </picture>
 
   <!-- ==================== ACTIVITY GRAPH ==================== -->
-  <br>
+  <br><br>
   <h4>📈 FLUXO DE ATIVIDADE & CONTRIBUIÇÃO (30 DIAS)</h4>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiquenovaes1994&theme=react-dark&bg_color=0d1117&color=00f0ff&line=ff0055&point=00ff66&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
@@ -303,17 +306,12 @@ Progress: [████████░░░░░░░░░░░░░░░
 ### 🐍 `// [07] SNAKE CONTRIBUTION MATRIX`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/caiquenovaes1994/caiquenovaes1994/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiquenovaes1994/caiquenovaes1994/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiquenovaes1994/caiquenovaes1994/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/caiquenovaes1994/caiquenovaes1994/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  </picture>
 </div>
-
-<details>
-  <summary><b>ℹ️ Como ativar a animação da Snake no seu GitHub (Clique para expandir)</b></summary>
-  <br>
-  
-  > 1. No seu repositório `caiquenovaes1994/caiquenovaes1994`, crie a pasta `.github/workflows/`.
-  > 2. Crie o arquivo `.github/workflows/snake.yml` com a action oficial `Platane/snk@v3`.
-  > 3. Ao rodar o workflow, o arquivo SVG será gerado automaticamente na branch `output`.
-</details>
 
 ---
 
@@ -324,19 +322,19 @@ Progress: [████████░░░░░░░░░░░░░░░
   <p>Conecte-se aos meus canais neurais para parcerias, oportunidades ou troca de ideias:</p>
 
   <a href="https://github.com/caiquenovaes1994" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-caiquenovaes1994-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/caiquenovaes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-caiquenovaes-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:caiquenovaes1994@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-caiquenovaes1994-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="mailto:caiquenovaes1994@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hotmail-caiquenovaes1994-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Hotmail" />
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Hotmail" />
   </a>
   <a href="https://t.me/caiquenovaes1994" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-caiquenovaes1994-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
 </div>
@@ -358,7 +356,8 @@ Progress: [████████░░░░░░░░░░░░░░░
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=caiquenovaes1994&label=TELEMETRY+VIEWS&color=00f0ff&style=flat-square" alt="Profile Views" />
-    &nbsp;•&nbsp;
+  </p>
+  <p>
     <code>STATUS: [ALL PROTOCOLS SECURE // 2026]</code>
   </p>
 
