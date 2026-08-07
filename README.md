@@ -127,7 +127,7 @@ Progress: [████████░░░░░░░░░░░░░░░
   </p>
 
   <!-- ==================== DATABASES & ORM ==================== -->
-  <h4>🗄️ BANCO DE DADOS, ORM & CACHE</h4>
+  <h4>🗄️ DATABASES, ORM & CACHING</h4>
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
@@ -139,7 +139,7 @@ Progress: [████████░░░░░░░░░░░░░░░
   </p>
 
   <!-- ==================== SECURITY & LIBS ==================== -->
-  <h4>🔐 SEGURANÇA, AUTENTICAÇÃO & LIBS</h4>
+  <h4>🔐 SECURITY, AUTHENTICATION & LIBS</h4>
   <p>
     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" alt="Spring Security" />
     <img src="https://img.shields.io/badge/Google_OAuth2-4285F4?style=flat&logo=google&logoColor=white" alt="Google OAuth2" />
@@ -152,7 +152,7 @@ Progress: [████████░░░░░░░░░░░░░░░
   </p>
 
   <!-- ==================== DEVOPS, BOTS & TOOLS ==================== -->
-  <h4>🤖 AUTOMAÇÃO, BOTS & WORKFLOW</h4>
+  <h4>🤖 AUTOMATION, BOTS & WORKFLOW</h4>
   <p>
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
     <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Bot" />
