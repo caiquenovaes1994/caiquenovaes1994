@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 <!-- ================================================================= -->
 <!-- 🚀 CYBERPUNK / JARVIS / AI-INSPIRED GITHUB PROFILE README        -->
 <!-- 👤 USER: caiquenovaes1994                                        -->
