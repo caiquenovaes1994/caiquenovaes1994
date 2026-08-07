@@ -31,7 +31,7 @@ system_specifications:
   identity: "Caique Novaes"
   role: "TypeScript, JavaScript & Python to change the world!"
   core_directive: "Transform complex ideas into elegant, scalable, and high-impact software solutions"
-  location: "Brasil [GMT-3]"
+  location: "Brazil [GMT-3]"
   current_focus: "LLMs, Microservices, Modern Web Architectures & Intelligent Automation"
   passions: ["Software Engineering", "Artificial Intelligence", "Cybersecurity", "Next-Gen UI/UX"]
   neural_uptime: "24/7 (Powered by Coffee ☕ & Curiosity ⚡)"
@@ -42,21 +42,21 @@ system_specifications:
 <table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ PROTOCOLOS PRIMÁRIOS</h4>
+      <h4>⚡ PRIMARY PROTOCOLS</h4>
       <ul>
-        <li>🔭 Desenvolvendo sistemas modernos com <b>TypeScript, JavaScript e Python</b></li>
-        <li>🧠 Aprofundando estudos em <b>IA Generativa, Agentes Autônomos e LLMs</b></li>
-        <li>💡 Foco contínuo em <b>clean architecture</b>, escalabilidade e performance</li>
-        <li>🌐 Entusiasta de ecossistemas Open Source e automação de alto nível</li>
+        <li>🔭 Building modern systems with <b>TypeScript, JavaScript & Python</b></li>
+        <li>🧠 Deep-diving into <b>Generative AI, Autonomous Agents & LLMs</b></li>
+        <li>💡 Relentless focus on <b>clean architecture</b>, scalability & performance</li>
+        <li>🌐 Open Source ecosystem enthusiast & high-level automation builder</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 MISSÃO ATUAL</h4>
+      <h4>🎯 CURRENT MISSION</h4>
       <ul>
-        <li>🚀 <b>Projeto Alpha:</b> Plataformas analíticas com IA e dashboards em tempo real</li>
-        <li>📚 <b>Pesquisa:</b> LLMs locais (Ollama, Anthropic Claude, OpenAI) e microsserviços</li>
-        <li>🤝 <b>Colaborações:</b> Aberto a projetos inovadores, desafios técnicos e parcerias</li>
-        <li>💬 <b>Contato:</b> Sempre disponível para networking e novos desafios</li>
+        <li>🚀 <b>Project Alpha:</b> AI-powered analytics platforms with real-time dashboards</li>
+        <li>📚 <b>Research:</b> Local LLMs (Ollama, Anthropic Claude, OpenAI) & microservices</li>
+        <li>🤝 <b>Collaborations:</b> Open to innovative projects, technical challenges & partnerships</li>
+        <li>💬 <b>Contact:</b> Always available for networking & new challenges</li>
       </ul>
     </td>
   </tr>
@@ -70,27 +70,27 @@ system_specifications:
 ┌──(caique㉿cyber-terminal)-[~/missions/2026]
 └─$ python3 -m core.execute_missions --verbose
 
-[*] Carregando módulos neurais e verificando alvos operacionais...
-[+] [OK] Conectado ao nó central de desenvolvimento.
+[*] Loading neural modules and verifying operational targets...
+[+] [OK] Connected to central development node.
 
-[MISSION 01] Arquitetura de Microsserviços & Soluções Full Stack
-Progress: [███████████████████████░] 99.99% | Status: Em Constante Desenvolvimento
+[MISSION 01] Microservices Architecture & Full Stack Solutions
+Progress: [███████████████████████░] 99.99% | Status: Under Constant Development
 
-[MISSION 02] Integração de Agentes Autônomos & Modelos Neurais
-Progress: [████████████░░░░░░░░░░░░] 50%    | Status: Treinamento Ativo
+[MISSION 02] Autonomous Agents & Neural Model Integration
+Progress: [████████████░░░░░░░░░░░░] 50%    | Status: Active Training
 
-[MISSION 03] Infraestrutura Serverless & Pipelines CI/CD Seguras
-Progress: [████████████░░░░░░░░░░░░] 50%    | Status: Em Implementação
+[MISSION 03] Serverless Infrastructure & Secure CI/CD Pipelines
+Progress: [████████████░░░░░░░░░░░░] 50%    | Status: Implementation Phase
 
-[MISSION 04] Domínio Cloud Multi-Ambiente (AWS / GCP / Cloud-Native)
-Progress: [████████░░░░░░░░░░░░░░░░] 35%    | Status: Em Progresso Constante
+[MISSION 04] Multi-Environment Cloud Mastery (AWS / GCP / Cloud-Native)
+Progress: [████████░░░░░░░░░░░░░░░░] 35%    | Status: Steady Progress
 
 └─$ _
 ```
 
 ---
 
-### 🛠️ `// [03] TECH STACK & ARSENAL TÉCNICO`
+### 🛠️ `// [03] TECH STACK & TECHNICAL ARSENAL`
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Progress: [████████░░░░░░░░░░░░░░░
   </p>
 
   <!-- ==================== AI & DATA ==================== -->
-  <h4>🧠 INTELIGÊNCIA ARTIFICIAL & DADOS</h4>
+  <h4>🧠 ARTIFICIAL INTELLIGENCE & DATA</h4>
   <p>
     <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat&logo=anthropic&logoColor=white" alt="Anthropic" />
     <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
@@ -131,7 +131,7 @@ Progress: [████████░░░░░░░░░░░░░░░
   </p>
 
   <!-- ==================== DATABASES ==================== -->
-  <h4>🗄️ BANCO DE DADOS & ORM</h4>
+  <h4>🗄️ DATABASES & ORM</h4>
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -153,7 +153,7 @@ Progress: [████████░░░░░░░░░░░░░░░
   </p>
 
   <!-- ==================== TOOLS ==================== -->
-  <h4>🛠️ FERRAMENTAS & WORKFLOW</h4>
+  <h4>🛠️ TOOLS & WORKFLOW</h4>
   <p>
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Antigravity-7928CA?style=flat&logo=google&logoColor=white" alt="Antigravity" />
@@ -166,14 +166,14 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 ---
 
-### 🚀 `// [04] PROJETOS EM DESTAQUE (NEURAL MODULES)`
+### 🚀 `// [04] FEATURED PROJECTS (NEURAL MODULES)`
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>⏱️ Horas Extras</h3>
-        <p><i>Sistema profissional para gestão de atendimentos e controle de horas extras com geração de relatórios PDF de alta fidelidade</i></p>
+        <p><i>Professional system for attendance management and overtime tracking with high-fidelity PDF report generation</i></p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" />
@@ -181,20 +181,20 @@ Progress: [████████░░░░░░░░░░░░░░░
         </p>
       </div>
       <ul>
-        <li>Gestão completa de atendimentos com registro de entrada/saída e cálculo automático</li>
-        <li>Geração de relatórios PDF profissionais de alta fidelidade</li>
-        <li>Interface moderna construída com Reflex (Python full-stack framework)</li>
+        <li>Complete attendance management with check-in/check-out and automatic calculation</li>
+        <li>High-fidelity professional PDF report generation</li>
+        <li>Modern interface built with Reflex (Python full-stack framework)</li>
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/HorasExtras">
-          <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=flat&logo=github&logoColor=000" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00f0ff?style=flat&logo=github&logoColor=000" />
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
         <h3>💅 Bárbara Reis Nail Designer</h3>
-        <p><i>Aplicação full-stack para o estúdio Bárbara Reis: agendamentos, histórico de clientes, catálogo e resumo financeiro com glassmorphism e PWA</i></p>
+        <p><i>Full-stack app for Bárbara Reis studio: scheduling, client history, catalog & financial summary with glassmorphism and PWA</i></p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
@@ -202,13 +202,13 @@ Progress: [████████░░░░░░░░░░░░░░░
         </p>
       </div>
       <ul>
-        <li>Controle de agendamentos, histórico de clientes e catálogo de procedimentos</li>
-        <li>Resumo financeiro integrado com interface glassmorphism e responsiva</li>
-        <li>Totalmente instalável como PWA com experiência mobile-first</li>
+        <li>Scheduling management, client history & procedure catalog</li>
+        <li>Integrated financial summary with glassmorphism and responsive UI</li>
+        <li>Fully installable as PWA with mobile-first experience</li>
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/BarbaraReisNailDesigner">
-          <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-ff0055?style=flat&logo=github&logoColor=fff" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ff0055?style=flat&logo=github&logoColor=fff" />
         </a>
       </div>
     </td>
@@ -217,7 +217,7 @@ Progress: [████████░░░░░░░░░░░░░░░
     <td width="50%" valign="top">
       <div align="center">
         <h3>⚽ World Cup 2026</h3>
-        <p><i>Plataforma interativa premium para acompanhar e simular todos os jogos da Copa do Mundo FIFA 2026™</i></p>
+        <p><i>Premium interactive platform to follow and simulate all FIFA World Cup 2026™ matches</i></p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
@@ -225,20 +225,20 @@ Progress: [████████░░░░░░░░░░░░░░░
         </p>
       </div>
       <ul>
-        <li>Acompanhamento completo de grupos, seleções, estádios e confrontos</li>
-        <li>Simulador interativo de resultados e chaveamento do torneio</li>
-        <li>Dados em tempo real com visual imersivo e dinâmico</li>
+        <li>Full tracking of groups, national teams, stadiums & matchups</li>
+        <li>Interactive results simulator and tournament bracket builder</li>
+        <li>Real-time data with immersive and dynamic visuals</li>
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/WorldCup2026">
-          <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-7928ca?style=flat&logo=github&logoColor=fff" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7928ca?style=flat&logo=github&logoColor=fff" />
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
         <h3>🌍 GeoQuiz 3D</h3>
-        <p><i>Plataforma imersiva de desafios geográficos com backend Java e globo 3D renderizado em tempo real</i></p>
+        <p><i>Immersive geography challenge platform with a Java backend and a real-time rendered 3D globe</i></p>
         <p>
           <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -246,13 +246,13 @@ Progress: [████████░░░░░░░░░░░░░░░
         </p>
       </div>
       <ul>
-        <li>Backend robusto em Java com lógica de quiz e persistência de dados</li>
-        <li>Globo 3D interativo renderizado em tempo real com Three.js</li>
-        <li>Mecânicas gamificadas de perguntas geográficas com pontuação dinâmica</li>
+        <li>Robust Java backend with quiz logic and data persistence</li>
+        <li>Interactive 3D globe rendered in real time with Three.js</li>
+        <li>Gamified geography Q&A mechanics with dynamic scoring</li>
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/GeoQuiz3D">
-          <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-00ff66?style=flat&logo=github&logoColor=000" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00ff66?style=flat&logo=github&logoColor=000" />
         </a>
       </div>
     </td>
@@ -271,7 +271,7 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 ---
 
-### 📊 `// [06] TELEMETRIA & ESTATÍSTICAS GITHUB`
+### 📊 `// [06] TELEMETRY & GITHUB STATISTICS`
 
 <div align="center">
 
@@ -296,7 +296,7 @@ Progress: [████████░░░░░░░░░░░░░░░
 
   <!-- ==================== ACTIVITY GRAPH ==================== -->
   <br><br>
-  <h4>📈 FLUXO DE ATIVIDADE & CONTRIBUIÇÃO (30 DIAS)</h4>
+  <h4>📈 ACTIVITY & CONTRIBUTION FLOW (30 DAYS)</h4>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiquenovaes1994&theme=react-dark&bg_color=0d1117&color=00f0ff&line=ff0055&point=00ff66&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
@@ -315,11 +315,11 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 ---
 
-### 🌐 `// [08] NEURAL LINK // REDES SOCIAIS & CONTATO`
+### 🌐 `// [08] NEURAL LINK // SOCIAL NETWORKS & CONTACT`
 
 <div align="center">
 
-  <p>Conecte-se aos meus canais neurais para parcerias, oportunidades ou troca de ideias:</p>
+  <p>Connect to my neural channels for partnerships, opportunities or brainstorming:</p>
 
   <a href="https://github.com/caiquenovaes1994" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
