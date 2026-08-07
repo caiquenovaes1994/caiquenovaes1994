@@ -173,9 +173,9 @@ Progress: [████████░░░░░░░░░░░░░░░
         <h3>⏱️ Horas Extras</h3>
         <p><i>Professional system for attendance management and overtime tracking with high-fidelity PDF report generation</i></p>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         </p>
       </div>
       <ul>
@@ -185,7 +185,7 @@ Progress: [████████░░░░░░░░░░░░░░░
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/HorasExtras">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00f0ff?style=flat&logo=github&logoColor=000" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00f0ff?style=flat&logo=github&logoColor=000" alt="View Repository - HorasExtras" />
         </a>
       </div>
     </td>
@@ -194,9 +194,9 @@ Progress: [████████░░░░░░░░░░░░░░░
         <h3>💅 Bárbara Reis Nail Designer</h3>
         <p><i>Full-stack app for Bárbara Reis studio: scheduling, client history, catalog & financial summary with glassmorphism and PWA</i></p>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
         </p>
       </div>
       <ul>
@@ -206,7 +206,7 @@ Progress: [████████░░░░░░░░░░░░░░░
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/BarbaraReisNailDesigner">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ff0055?style=flat&logo=github&logoColor=fff" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ff0055?style=flat&logo=github&logoColor=fff" alt="View Repository - BarbaraReisNailDesigner" />
         </a>
       </div>
     </td>
@@ -217,9 +217,9 @@ Progress: [████████░░░░░░░░░░░░░░░
         <h3>⚽ World Cup 2026</h3>
         <p><i>Premium interactive platform to follow and simulate all FIFA World Cup 2026™ matches</i></p>
         <p>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
-          <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
         </p>
       </div>
       <ul>
@@ -229,7 +229,7 @@ Progress: [████████░░░░░░░░░░░░░░░
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/WorldCup2026">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7928ca?style=flat&logo=github&logoColor=fff" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7928ca?style=flat&logo=github&logoColor=fff" alt="View Repository - WorldCup2026" />
         </a>
       </div>
     </td>
@@ -238,9 +238,9 @@ Progress: [████████░░░░░░░░░░░░░░░
         <h3>🌍 GeoQuiz 3D</h3>
         <p><i>Immersive geography challenge platform with a Java backend and a real-time rendered 3D globe</i></p>
         <p>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
         </p>
       </div>
       <ul>
@@ -250,7 +250,7 @@ Progress: [████████░░░░░░░░░░░░░░░
       </ul>
       <div align="center">
         <a href="https://github.com/caiquenovaes1994/GeoQuiz3D">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00ff66?style=flat&logo=github&logoColor=000" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00ff66?style=flat&logo=github&logoColor=000" alt="View Repository - GeoQuiz3D" />
         </a>
       </div>
     </td>
