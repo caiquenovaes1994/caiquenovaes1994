@@ -1,304 +1,249 @@
 <!-- markdownlint-disable -->
-<!-- ================================================================= -->
-<!-- 🚀 CYBERPUNK / JARVIS / AI-INSPIRED GITHUB PROFILE README        -->
-<!-- 👤 USER: caiquenovaes1994                                        -->
-<!-- ================================================================= -->
 
 <div align="center">
 
-  <!-- ==================== HEADER BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,50:0a192f,100:00f0ff&height=240&section=header&text=caiquenovaes1994&fontSize=42&fontColor=00f0ff&fontAlignY=38&animation=fadeIn&desc=WELCOME%20TO%20MY%20MESSY%20HEAD&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=Caique%20Novaes&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Python%20%7C%20JavaScript%20%7C%20TypeScript&descFontSize=15&descAlignY=58&descAlign=50" width="100%" alt="Header" />
 
-  <!-- ==================== TYPING ANIMATION ==================== -->
+  <!-- TYPING ANIMATION -->
   <a href="https://github.com/caiquenovaes1994">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%3E+INITIALIZING+PROTOCOL%3A+JARVIS_CORE_V4.2...;%3E+TYPESCRIPT%2C+JAVASCRIPT+%26+PYTHON+TO+CHANGE+THE+WORLD!;%3E+ARCHITECTING+INTELLIGENT+%26+HIGH-PERFORMANCE+SYSTEMS;%3E+STATUS%3A+ONLINE+%26+READY+TO+BUILD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&height=45&lines=Building+scalable+systems+with+Python%2C+JS+%26+TS;Passionate+about+Clean+Architecture+%26+AI;Open+to+collaborations+and+new+challenges" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_5-00f0ff?style=flat&logo=shield&logoColor=000&labelColor=0d1117" alt="Clearance Level" />
-    <img src="https://img.shields.io/badge/CORE_STATUS-OPERATIONAL-00ff66?style=flat&logo=statuspage&logoColor=000&labelColor=0d1117" alt="Status" />
-    <img src="https://img.shields.io/badge/CYBER_DECK-ONLINE-ff0055?style=flat&logo=target&logoColor=fff&labelColor=0d1117" alt="Cyber Deck" />
-    <img src="https://img.shields.io/badge/NEURAL_LOAD-OPTIMAL-7928ca?style=flat&logo=fastapi&logoColor=fff&labelColor=0d1117" alt="Neural Load" />
-  </p>
+  <br/>
 
-</div>
-
----
-
-### 🧬 `// [01] SYSTEM DIAGNOSTICS & IDENTITY`
-
-```yaml
-system_specifications:
-  identity: "Caique Novaes"
-  role: "TypeScript, JavaScript & Python to change the world!"
-  core_directive: "Transform complex ideas into elegant, scalable, and high-impact software solutions"
-  location: "Brazil [GMT-3]"
-  current_focus: "LLMs, Microservices, Modern Web Architectures & Intelligent Automation"
-  passions: ["Software Engineering", "Artificial Intelligence", "Cybersecurity", "Next-Gen UI/UX"]
-  neural_uptime: "24/7 (Powered by Coffee ☕ & Curiosity ⚡)"
-```
-
-<br>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ PRIMARY PROTOCOLS</h4>
-      <ul>
-        <li>🔭 Building modern systems with <b>TypeScript, JavaScript & Python</b></li>
-        <li>🧠 Deep-diving into <b>Generative AI, Autonomous Agents & LLMs</b></li>
-        <li>💡 Relentless focus on <b>clean architecture</b>, scalability & performance</li>
-        <li>🌐 Open Source ecosystem enthusiast & high-level automation builder</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 CURRENT MISSION</h4>
-      <ul>
-        <li>🚀 <b>Project Alpha:</b> AI-powered analytics platforms with real-time dashboards</li>
-        <li>📚 <b>Research:</b> Local LLMs (Ollama, Anthropic Claude, OpenAI) & microservices</li>
-        <li>🤝 <b>Collaborations:</b> Open to innovative projects, technical challenges & partnerships</li>
-        <li>💬 <b>Contact:</b> Always available for networking & new challenges</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 `// [02] TERMINAL EXECUTION (CURRENT OBJECTIVES)`
-
-```bash
-┌──(caique㉿cyber-terminal)-[~/missions/2026]
-└─$ python3 -m core.execute_missions --verbose
-
-[*] Loading neural modules and verifying operational targets...
-[+] [OK] Connected to central development node.
-
-[MISSION 01] Microservices Architecture & Full Stack Solutions
-Progress: [███████████████████████░] 99.99% | Status: Under Constant Development
-
-[MISSION 02] Autonomous Agents & Neural Model Integration
-Progress: [████████████░░░░░░░░░░░░] 50%    | Status: Active Training
-
-[MISSION 03] Serverless Infrastructure & Secure CI/CD Pipelines
-Progress: [████████████░░░░░░░░░░░░] 50%    | Status: Implementation Phase
-
-[MISSION 04] Multi-Environment Cloud Mastery (AWS / GCP / Cloud-Native)
-Progress: [████████░░░░░░░░░░░░░░░░] 35%    | Status: Steady Progress
-
-└─$ _
-```
-
----
-
-### 🛠️ `// [03] TECH STACK & TECHNICAL ARSENAL`
-
-<div align="center">
-
-  <!-- ==================== FRONTEND ==================== -->
-  <h4>⚡ FRONTEND & INTERFACES</h4>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
-   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  </p>
-
-  <!-- ==================== BACKEND ==================== -->
-  <h4>⚙️ BACKEND & APIS</h4>
+  <!-- STATUS BADGES -->
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/NiceGUI-2B3A4A?style=flat&logo=python&logoColor=white" alt="NiceGUI" />
-    <img src="https://img.shields.io/badge/Granian_ASGI-4A154B?style=flat&logo=fastapi&logoColor=white" alt="Granian ASGI" />
-    <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=gunicorn&logoColor=white" alt="Uvicorn" />
-    <img src="https://img.shields.io/badge/HTTPX_Async-00599C?style=flat&logo=python&logoColor=white" alt="HTTPX Async" />
-  </p>
-
-  <!-- ==================== DATABASES & ORM ==================== -->
-  <h4>🗄️ DATABASES, ORM & CACHING</h4>
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
-    <img src="https://img.shields.io/badge/SQLModel-008080?style=flat&logo=python&logoColor=white" alt="SQLModel" />
-    <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Data JPA" />
-  </p>
-
-  <!-- ==================== SECURITY & LIBS ==================== -->
-  <h4>🔐 SECURITY, AUTHENTICATION & LIBS</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" alt="Spring Security" />
-    <img src="https://img.shields.io/badge/Google_OAuth2-4285F4?style=flat&logo=google&logoColor=white" alt="Google OAuth2" />
-    <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-    <img src="https://img.shields.io/badge/Bcrypt-4B8BBE?style=flat&logo=auth0&logoColor=white" alt="Bcrypt" />
-    <img src="https://img.shields.io/badge/AES_/_Fernet_Cryptography-5C2D91?style=flat&logo=shield&logoColor=white" alt="Fernet AES" />
-    <img src="https://img.shields.io/badge/Circuit_Breaker_(PyBreaker)-FF6F00?style=flat&logo=speedtest&logoColor=white" alt="Circuit Breaker" />
-    <img src="https://img.shields.io/badge/ReportLab_PDF-2B3A4A?style=flat&logo=adobeacrobatreader&logoColor=white" alt="ReportLab" />
-    <img src="https://img.shields.io/badge/jsPDF-FF3366?style=flat&logo=javascript&logoColor=white" alt="jsPDF" />
-  </p>
-
-  <!-- ==================== DEVOPS, BOTS & TOOLS ==================== -->
-  <h4>🤖 AUTOMATION, BOTS & WORKFLOW</h4>
-  <p>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Bot" />
-    <img src="https://img.shields.io/badge/WhatsApp_Bot_API-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Bot" />
-    <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat&logo=python&logoColor=white" alt="BeautifulSoup4" />
-    <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=react&logoColor=white" alt="Recharts" />
-    <img src="https://img.shields.io/badge/Google_Charts-4285F4?style=flat&logo=google&logoColor=white" alt="Google Charts" />
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Antigravity-7928CA?style=flat&logo=google&logoColor=white" alt="Antigravity" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/Location-Brazil%20%C2%B7%20GMT--3-1e3a5f?style=flat" alt="Location" />
   </p>
 
 </div>
 
 ---
 
-### 🚀 `// [04] FEATURED PROJECTS (NEURAL MODULES)`
+## About Me
+
+I'm a **Software Developer** based in Brazil, specializing in building reliable, scalable, and maintainable software using **Python**, **JavaScript**, and **TypeScript**. My focus areas span backend systems, REST APIs, modern frontend applications, and AI-powered automation.
+
+I care deeply about **clean architecture**, **developer experience**, and solutions that scale — whether it's a microservice, a CLI tool, or a full-stack web application.
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>⏱️ Horas Extras</h3>
-        <p><i>Professional system for attendance management and overtime tracking with high-fidelity PDF report generation</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        </p>
-      </div>
-      <ul>
-        <li>Complete attendance management with check-in/check-out and automatic calculation</li>
-        <li>High-fidelity professional PDF report generation</li>
-        <li>Modern interface built with Reflex (Python full-stack framework)</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/caiquenovaes1994/HorasExtras">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00f0ff?style=flat&logo=github&logoColor=000" alt="View Repository - HorasExtras" />
-        </a>
-      </div>
+
+**What I'm building**
+- 🔧 Microservices & full-stack solutions with Python, JavaScript and TypeScript
+- 🤖 Integrating LLMs (OpenAI, Claude, Ollama) into production workflows
+- ☁️ Serverless infrastructure & CI/CD pipeline automation
+- 📊 Real-time dashboards and AI-powered analytics platforms
+
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>💅 Bárbara Reis Nail Designer</h3>
-        <p><i>Full-stack app for Bárbara Reis studio: scheduling, client history, catalog & financial summary with glassmorphism and PWA</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-        </p>
-      </div>
-      <ul>
-        <li>Scheduling management, client history & procedure catalog</li>
-        <li>Integrated financial summary with glassmorphism and responsive UI</li>
-        <li>Fully installable as PWA with mobile-first experience</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/caiquenovaes1994/BarbaraReisNailDesigner">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ff0055?style=flat&logo=github&logoColor=fff" alt="View Repository - BarbaraReisNailDesigner" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>⚽ World Cup 2026</h3>
-        <p><i>Premium interactive platform to follow and simulate all FIFA World Cup 2026™ matches</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-          <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        </p>
-      </div>
-      <ul>
-        <li>Full tracking of groups, national teams, stadiums & matchups</li>
-        <li>Interactive results simulator and tournament bracket builder</li>
-        <li>Real-time data with immersive and dynamic visuals</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/caiquenovaes1994/WorldCup2026">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7928ca?style=flat&logo=github&logoColor=fff" alt="View Repository - WorldCup2026" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🌍 GeoQuiz 3D</h3>
-        <p><i>Immersive geography challenge platform with a Java backend and a real-time rendered 3D globe</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
-        </p>
-      </div>
-      <ul>
-        <li>Robust Java backend with quiz logic and data persistence</li>
-        <li>Interactive 3D globe rendered in real time with Three.js</li>
-        <li>Gamified geography Q&A mechanics with dynamic scoring</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/caiquenovaes1994/GeoQuiz3D">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00ff66?style=flat&logo=github&logoColor=000" alt="View Repository - GeoQuiz3D" />
-        </a>
-      </div>
+
+**What I'm exploring**
+- 🧠 Autonomous AI agents and orchestration frameworks
+- 🔐 Secure authentication flows (OAuth2, JWT, Bcrypt)
+- 🗄️ Advanced ORM patterns with SQLModel and Prisma
+- ☁️ Cloud-native deployments on AWS and GCP
+
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 `// [05] TELEMETRY & GITHUB STATISTICS`
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/NiceGUI-2B3A4A?style=flat&logo=python&logoColor=white" alt="NiceGUI" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=gunicorn&logoColor=white" alt="Uvicorn" />
+  <img src="https://img.shields.io/badge/HTTPX_Async-00599C?style=flat&logo=python&logoColor=white" alt="HTTPX Async" />
+</p>
+
+### Databases & ORM
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/SQLModel-008080?style=flat&logo=python&logoColor=white" alt="SQLModel" />
+</p>
+
+### Auth, Security & Utilities
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Bcrypt-4B8BBE?style=flat&logo=auth0&logoColor=white" alt="Bcrypt" />
+  <img src="https://img.shields.io/badge/Fernet_/_AES-5C2D91?style=flat&logo=shield&logoColor=white" alt="Fernet AES" />
+  <img src="https://img.shields.io/badge/ReportLab_PDF-2B3A4A?style=flat&logo=adobeacrobatreader&logoColor=white" alt="ReportLab" />
+  <img src="https://img.shields.io/badge/jsPDF-FF3366?style=flat&logo=javascript&logoColor=white" alt="jsPDF" />
+</p>
+
+### DevOps, Automation & Tools
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Bot" />
+  <img src="https://img.shields.io/badge/WhatsApp_Bot-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Bot" />
+  <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat&logo=python&logoColor=white" alt="BeautifulSoup4" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Antigravity-7928CA?style=flat&logo=google&logoColor=white" alt="Antigravity" />
+</p>
+
+---
+
+## Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏱️ Horas Extras</h3>
+      <p><i>Professional system for attendance management and overtime tracking with high-fidelity PDF report generation.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <ul>
+        <li>Complete attendance management with check-in/check-out and automatic calculation</li>
+        <li>High-fidelity professional PDF report generation via ReportLab</li>
+        <li>Modern interface built with Reflex (Python full-stack framework)</li>
+      </ul>
+      <a href="https://github.com/caiquenovaes1994/HorasExtras">
+        <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💅 Bárbara Reis Nail Designer</h3>
+      <p><i>Full-stack application for a beauty studio: scheduling, client history, service catalog & financial summary — built as an installable PWA.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+      <ul>
+        <li>Scheduling management, client history & procedure catalog</li>
+        <li>Integrated financial summary with glassmorphism-inspired UI</li>
+        <li>Fully installable as PWA with a mobile-first responsive experience</li>
+      </ul>
+      <a href="https://github.com/caiquenovaes1994/BarbaraReisNailDesigner">
+        <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚽ World Cup 2026</h3>
+      <p><i>Interactive platform to follow and simulate all FIFA World Cup 2026™ matches, groups, and brackets in real time.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      </p>
+      <ul>
+        <li>Full tracking of groups, national teams, stadiums & matchups</li>
+        <li>Interactive results simulator and tournament bracket builder</li>
+        <li>Real-time data rendering with dynamic visuals</li>
+      </ul>
+      <a href="https://github.com/caiquenovaes1994/WorldCup2026">
+        <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 GeoQuiz 3D</h3>
+      <p><i>Immersive geography challenge platform with a real-time rendered 3D globe powered by Three.js.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+      </p>
+      <ul>
+        <li>Robust backend with quiz logic and data persistence</li>
+        <li>Interactive 3D globe rendered in real time with Three.js</li>
+        <li>Gamified geography Q&A mechanics with dynamic scoring</li>
+      </ul>
+      <a href="https://github.com/caiquenovaes1994/GeoQuiz3D">
+        <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Current Focus
+
+```
+Microservices Architecture & Full-Stack Solutions   [███████████████████████░] 99.99%  | Status: Under Constant Development
+Autonomous Agents & LLM Integration                 [████████████░░░░░░░░░░░░] 50%     | Status: Active Training
+Serverless Infrastructure & CI/CD Pipelines         [████████████░░░░░░░░░░░░] 50%     | Status: Implementation Phase
+Cloud-Native Deployments (AWS / GCP)                [████████░░░░░░░░░░░░░░░░] 35%     | Status: Steady Progress
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=caiquenovaes1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=caiquenovaes1994&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=caiquenovaes1994&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=caiquenovaes1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=caiquenovaes1994&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caiquenovaes1994&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caiquenovaes1994&theme=github-dark-blue&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=caiquenovaes1994&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=caiquenovaes1994&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff" width="49%" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=caiquenovaes1994&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub Streak" />
   </picture>
 
-  <br><br>
+  <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiquenovaes1994&theme=tokyonight" width="95%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiquenovaes1994&theme=github_dark" width="95%" alt="Profile Details" />
 
-  <br><br>
+  <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiquenovaes1994&theme=tokyonight" width="32%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiquenovaes1994&theme=tokyonight" width="32%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caiquenovaes1994&theme=tokyonight&utcOffset=-3" width="32%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiquenovaes1994&theme=github_dark" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiquenovaes1994&theme=github_dark" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caiquenovaes1994&theme=github_dark&utcOffset=-3" width="32%" alt="Productive Time" />
 
-  <!-- ==================== ACTIVITY GRAPH ==================== -->
-  <br><br>
-  <h4>📈 ACTIVITY & CONTRIBUTION FLOW (30 DAYS)</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiquenovaes1994&theme=react-dark&bg_color=0d1117&color=00f0ff&line=ff0055&point=00ff66&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiquenovaes1994&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-### 🐍 `// [06] SNAKE CONTRIBUTION MATRIX`
+## Snake Contribution Graph
 
 <div align="center">
   <picture>
@@ -310,11 +255,11 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 ---
 
-### 🌐 `// [07] NEURAL LINK // SOCIAL NETWORKS & CONTACT`
+## Let's Connect
 
 <div align="center">
 
-  <p>Connect to my neural channels for partnerships, opportunities or brainstorming:</p>
+  <p>Open to collaborations, freelance opportunities, and technical conversations.</p>
 
   <a href="https://github.com/caiquenovaes1994" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
@@ -326,7 +271,7 @@ Progress: [████████░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="mailto:caiquenovaes1994@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Hotmail" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
   <a href="https://t.me/caiquenovaes1994" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
@@ -336,24 +281,11 @@ Progress: [████████░░░░░░░░░░░░░░░
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
+<!-- FOOTER -->
 <div align="center">
-  
-  <br>
-  
-  <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0a192f,100:050811&height=120&section=footer" width="100%" alt="Footer Banner" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
 
-  <blockquote>
-    <i>"The future belongs to those who build the code that shapes it."</i> 🚀
-  </blockquote>
+  <p><i>"Write code that is easy to delete, not easy to extend."</i></p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=caiquenovaes1994&label=TELEMETRY+VIEWS&color=00f0ff&style=flat-square" alt="Profile Views" />
-  </p>
-  <p>
-    <code>STATUS: [ALL PROTOCOLS SECURE // 2026]</code>
-  </p>
-
+  <img src="https://komarev.com/ghpvc/?username=caiquenovaes1994&label=Profile+Views&color=3b82f6&style=flat-square" alt="Profile Views" />
 </div>
