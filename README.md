@@ -84,7 +84,6 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/NiceGUI-2B3A4A?style=flat&logo=python&logoColor=white" alt="NiceGUI" />
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=gunicorn&logoColor=white" alt="Uvicorn" />
   <img src="https://img.shields.io/badge/HTTPX_Async-00599C?style=flat&logo=python&logoColor=white" alt="HTTPX Async" />
 </p>
 
@@ -93,7 +92,6 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/SQLModel-008080?style=flat&logo=python&logoColor=white" alt="SQLModel" />
 </p>
@@ -251,6 +249,22 @@ Cloud-Native Deployments (AWS / GCP)                [████████░
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiquenovaes1994/caiquenovaes1994/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/caiquenovaes1994/caiquenovaes1994/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
   </picture>
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+  <p>If you find my projects useful, consider supporting my work!</p>
+
+  <a href="https://caiquenovaes1994.github.io/SupportMe/" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Support_Me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Support Me" />
+  </a>
+
+  <p><sub>Pix • Buy Me a Coffee • Ko-fi — every contribution helps! 💛</sub></p>
+
 </div>
 
 ---
