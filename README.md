@@ -25,7 +25,7 @@
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 I'm a **Software Developer** based in Brazil, specializing in building reliable, scalable, and maintainable software using **Python**, **JavaScript**, and **TypeScript**. My focus areas span backend systems, REST APIs, modern frontend applications, and AI-powered automation.
 
@@ -56,16 +56,18 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Languages
+<div align="center">
+
+<h3 align="center">Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-### Frontend
+<h3 align="center">Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -78,7 +80,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
 </p>
 
-### Backend & APIs
+<h3 align="center">Backend & APIs</h3>
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -87,7 +89,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/HTTPX_Async-00599C?style=flat&logo=python&logoColor=white" alt="HTTPX Async" />
 </p>
 
-### Databases & ORM
+<h3 align="center">Databases & ORM</h3>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
@@ -96,7 +98,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/SQLModel-008080?style=flat&logo=python&logoColor=white" alt="SQLModel" />
 </p>
 
-### Auth, Security & Utilities
+<h3 align="center">Auth, Security & Utilities</h3>
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Bcrypt-4B8BBE?style=flat&logo=auth0&logoColor=white" alt="Bcrypt" />
@@ -105,7 +107,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/jsPDF-FF3366?style=flat&logo=javascript&logoColor=white" alt="jsPDF" />
 </p>
 
-### DevOps, Automation & Tools
+<h3 align="center">DevOps, Automation & Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -116,9 +118,11 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/Antigravity-7928CA?style=flat&logo=google&logoColor=white" alt="Antigravity" />
 </p>
 
+</div>
+
 ---
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <table width="100%">
   <tr>
@@ -135,9 +139,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
         <li>High-fidelity professional PDF report generation via ReportLab</li>
         <li>Modern interface built with Reflex (Python full-stack framework)</li>
       </ul>
-      <a href="https://github.com/caiquenovaes1994/HorasExtras">
-        <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" />
-      </a>
+      <p align="center"><a href="https://github.com/caiquenovaes1994/HorasExtras"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>💅 Bárbara Reis Nail Designer</h3>
@@ -152,9 +154,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
         <li>Integrated financial summary with glassmorphism-inspired UI</li>
         <li>Fully installable as PWA with a mobile-first responsive experience</li>
       </ul>
-      <a href="https://github.com/caiquenovaes1994/BarbaraReisNailDesigner">
-        <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" />
-      </a>
+      <p align="center"><a href="https://github.com/caiquenovaes1994/BarbaraReisNailDesigner"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
   </tr>
   <tr>
@@ -171,9 +171,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
         <li>Interactive results simulator and tournament bracket builder</li>
         <li>Real-time data rendering with dynamic visuals</li>
       </ul>
-      <a href="https://github.com/caiquenovaes1994/WorldCup2026">
-        <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" />
-      </a>
+      <p align="center"><a href="https://github.com/caiquenovaes1994/WorldCup2026"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌍 GeoQuiz 3D</h3>
@@ -188,16 +186,14 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
         <li>Interactive 3D globe rendered in real time with Three.js</li>
         <li>Gamified geography Q&A mechanics with dynamic scoring</li>
       </ul>
-      <a href="https://github.com/caiquenovaes1994/GeoQuiz3D">
-        <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" />
-      </a>
+      <p align="center"><a href="https://github.com/caiquenovaes1994/GeoQuiz3D"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Current Focus
+<h2 align="center">Current Focus</h2>
 
 ```
 Microservices Architecture & Full-Stack Solutions   [███████████████████████░] 99.99%  | Status: Under Constant Development
@@ -208,7 +204,7 @@ Cloud-Native Deployments (AWS / GCP)                [████████░
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -241,7 +237,7 @@ Cloud-Native Deployments (AWS / GCP)                [████████░
 
 ---
 
-## Snake Contribution Graph
+<h2 align="center">Snake Contribution Graph</h2>
 
 <div align="center">
   <picture>
@@ -253,7 +249,7 @@ Cloud-Native Deployments (AWS / GCP)                [████████░
 
 ---
 
-## ☕ Support My Work
+<h2 align="center">☕ Support My Work</h2>
 
 <div align="center">
 
@@ -269,7 +265,7 @@ Cloud-Native Deployments (AWS / GCP)                [████████░
 
 ---
 
-## Let's Connect
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
