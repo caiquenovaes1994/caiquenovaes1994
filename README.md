@@ -129,7 +129,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
     <td width="50%" valign="top">
       <h3>⏱️ Horas Extras</h3>
       <p><i>Professional system for attendance management and overtime tracking with high-fidelity PDF report generation.</i></p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -144,7 +144,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
     <td width="50%" valign="top">
       <h3>💅 Bárbara Reis Nail Designer</h3>
       <p><i>Full-stack application for a beauty studio: scheduling, client history, service catalog & financial summary — built as an installable PWA.</i></p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
@@ -161,7 +161,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
     <td width="50%" valign="top">
       <h3>⚽ World Cup 2026</h3>
       <p><i>Interactive platform to follow and simulate all FIFA World Cup 2026™ matches, groups, and brackets in real time.</i></p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
         <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -176,7 +176,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
     <td width="50%" valign="top">
       <h3>🌍 GeoQuiz 3D</h3>
       <p><i>Immersive geography challenge platform with a real-time rendered 3D globe powered by Three.js.</i></p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
