@@ -37,7 +37,6 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
 
 **What I'm building**
 - 🔧 Microservices & full-stack solutions with Python, JavaScript and TypeScript
-- 🤖 Integrating LLMs (OpenAI, Claude, Ollama) into production workflows
 - ☁️ Serverless infrastructure & CI/CD pipeline automation
 - 📊 Real-time dashboards and AI-powered analytics platforms
 
@@ -71,12 +70,10 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vanilla_CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="Vanilla CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
 </p>
 
@@ -84,9 +81,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/NiceGUI-2B3A4A?style=flat&logo=python&logoColor=white" alt="NiceGUI" />
-  <img src="https://img.shields.io/badge/HTTPX_Async-00599C?style=flat&logo=python&logoColor=white" alt="HTTPX Async" />
 </p>
 
 <h3 align="center">Databases & ORM</h3>
@@ -95,7 +90,6 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/SQLModel-008080?style=flat&logo=python&logoColor=white" alt="SQLModel" />
 </p>
 
 <h3 align="center">Auth, Security & Utilities</h3>
@@ -103,6 +97,7 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Bcrypt-4B8BBE?style=flat&logo=auth0&logoColor=white" alt="Bcrypt" />
   <img src="https://img.shields.io/badge/Fernet_/_AES-5C2D91?style=flat&logo=shield&logoColor=white" alt="Fernet AES" />
+  <img src="https://img.shields.io/badge/ExcelJS-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="ExcelJS" />
   <img src="https://img.shields.io/badge/ReportLab_PDF-2B3A4A?style=flat&logo=adobeacrobatreader&logoColor=white" alt="ReportLab" />
   <img src="https://img.shields.io/badge/jsPDF-FF3366?style=flat&logo=javascript&logoColor=white" alt="jsPDF" />
 </p>
@@ -113,7 +108,6 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Bot" />
   <img src="https://img.shields.io/badge/WhatsApp_Bot-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Bot" />
-  <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat&logo=python&logoColor=white" alt="BeautifulSoup4" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Antigravity-7928CA?style=flat&logo=google&logoColor=white" alt="Antigravity" />
 </p>
@@ -193,16 +187,6 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
 
 ---
 
-<h2 align="center">Current Focus</h2>
-
-```
-Microservices Architecture & Full-Stack Solutions   [███████████████████████░] 99.99%  | Status: Under Constant Development
-Autonomous Agents & LLM Integration                 [████████████░░░░░░░░░░░░] 50%     | Status: Active Training
-Serverless Infrastructure & CI/CD Pipelines         [████████████░░░░░░░░░░░░] 50%     | Status: Implementation Phase
-Cloud-Native Deployments (AWS / GCP)                [████████░░░░░░░░░░░░░░░░] 35%     | Status: Steady Progress
-```
-
----
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -273,16 +257,16 @@ Cloud-Native Deployments (AWS / GCP)                [████████░
 
   <a href="https://github.com/caiquenovaes1994" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/caiquenovaes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:caiquenovaes1994@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:caiquenovaes1994@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://t.me/caiquenovaes1994" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
