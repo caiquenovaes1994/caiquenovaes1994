@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+    <br/>
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat" alt="Open to Work" />
     <img src="https://img.shields.io/badge/Location-Brazil%20%C2%B7%20GMT--3-1e3a5f?style=flat" alt="Location" />
   </p>
@@ -277,9 +278,15 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
 
   <p><i>"Write code that is easy to delete, not easy to extend."</i></p>
 
   <img src="https://komarev.com/ghpvc/?username=caiquenovaes1994&label=Profile+Views&color=3b82f6&style=flat-square" alt="Profile Views" />
+
+  <br/><br/>
+
+  <img src="./assets/terminal-hello-world.svg" width="660" alt="Terminal Hello World" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" alt="Footer Waves" />
+
 </div>
