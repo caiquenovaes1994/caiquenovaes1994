@@ -3,22 +3,23 @@
 <div align="center">
 
   <!-- HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=Caique%20Novaes&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Python%20%7C%20JavaScript%20%7C%20TypeScript&descFontSize=15&descAlignY=58&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=Caique%20Novaes&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%E2%80%A2%20HTML%20%7C%20CSS%20%7C%20JavaScript%20%E2%80%A2%20Exploring%20Backend&descFontSize=15&descAlignY=58&descAlign=50" width="100%" alt="Header" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/caiquenovaes1994">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&height=45&lines=Building+scalable+systems+with+Python%2C+JS+%26+TS;Passionate+about+Clean+Architecture+%26+AI;Open+to+collaborations+and+new+challenges" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&height=45&lines=Web+Developer;Focusing+on+Frontend:+HTML,+CSS+%26+JavaScript;Learning+Backend+with+Python+%26+TypeScript;Passionate+about+Clean+Code+%26+continuous+learning" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <!-- STATUS BADGES -->
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/Vanilla_CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="Vanilla CSS" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-38bdf8?style=flat" alt="Frontend Focus" />
     <br/>
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat" alt="Open to Opportunities" />
     <img src="https://img.shields.io/badge/Location-Brazil%20%C2%B7%20GMT--3-1e3a5f?style=flat" alt="Location" />
   </p>
 
@@ -28,27 +29,28 @@
 
 <h2 align="center">About Me</h2>
 
-I'm a **Software Developer** based in Brazil, specializing in building reliable, scalable, and maintainable software using **Python**, **JavaScript**, and **TypeScript**. My focus areas span backend systems, REST APIs, modern frontend applications, and AI-powered automation.
+I'm a **Web Developer** based in Brazil, currently immersing myself in programming and building practical web projects. Today, my primary focus is on **Frontend Development**, crafting responsive, accessible, and clean user interfaces using **HTML5**, **Vanilla CSS**, and modern **JavaScript**.
 
-I care deeply about **clean architecture**, **developer experience**, and solutions that scale — whether it's a microservice, a CLI tool, or a full-stack web application.
+Alongside my frontend journey, I have a keen interest in **Backend Development** — actively studying **Python** and **TypeScript** to understand server-side architecture, RESTful APIs, and database integrations. I'm passionate about clean code, continuous learning, and turning ideas into functional software.
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 
-**What I'm building**
-- 🔧 Microservices & full-stack solutions with Python, JavaScript and TypeScript
-- ☁️ Serverless infrastructure & CI/CD pipeline automation
-- 📊 Real-time dashboards and AI-powered analytics platforms
+**What I'm building & practicing**
+- 🌐 Responsive websites & modern web pages with semantic **HTML5** & **CSS**
+- ⚡ Dynamic interfaces and DOM manipulation with **JavaScript**
+- ⚛️ Component-based web applications with **React** & **Vite**
+- 📱 Mobile-first layouts and installable **PWAs**
 
     </td>
     <td width="50%" valign="top">
 
-**What I'm exploring**
-- 🧠 Autonomous AI agents and orchestration frameworks
-- 🔐 Secure authentication flows (OAuth2, JWT, Bcrypt)
-- 🗄️ Advanced ORM patterns with SQLModel and Prisma
-- ☁️ Cloud-native deployments on AWS and GCP
+**What I'm learning & exploring**
+- 🐍 Backend fundamentals and REST APIs with **Python** & **TypeScript**
+- 🗄️ Database basics with **PostgreSQL**, **Supabase** & **Prisma**
+- 🔐 Authentication concepts and API integration
+- 🛠️ Git workflows, collaborative development & clean code practices
 
     </td>
   </tr>
@@ -60,29 +62,25 @@ I care deeply about **clean architecture**, **developer experience**, and soluti
 
 <div align="center">
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Frontend (Primary Focus)</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-<h3 align="center">Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Vanilla_CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="Vanilla CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
+  <img src="https://img.shields.io/badge/Vanilla_CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="Vanilla CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
 </p>
 
-<h3 align="center">Backend & APIs</h3>
+<h3 align="center">Backend & Exploration</h3>
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/NiceGUI-2B3A4A?style=flat&logo=python&logoColor=white" alt="NiceGUI" />
+  <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
 </p>
 
 <h3 align="center">Databases & ORM</h3>
