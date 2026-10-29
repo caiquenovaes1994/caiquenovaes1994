@@ -120,21 +120,6 @@ Alongside my frontend journey, I have a keen interest in **Backend Development**
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⏱️ Horas Extras</h3>
-      <p><i>Professional system for attendance management and overtime tracking with high-fidelity PDF report generation.</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Reflex-6C3AE0?style=flat&logo=python&logoColor=white" alt="Reflex" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      <ul>
-        <li>Complete attendance management with check-in/check-out and automatic calculation</li>
-        <li>High-fidelity professional PDF report generation via ReportLab</li>
-        <li>Modern interface built with Reflex (Python full-stack framework)</li>
-      </ul>
-      <p align="center"><a href="https://github.com/caiquenovaes1994/HorasExtras"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
-    </td>
-    <td width="50%" valign="top">
       <h3>💅 Bárbara Reis Nail Designer</h3>
       <p><i>Full-stack application for a beauty studio: scheduling, client history, service catalog & financial summary — built as an installable PWA.</i></p>
       <p align="center">
@@ -148,6 +133,21 @@ Alongside my frontend journey, I have a keen interest in **Backend Development**
         <li>Fully installable as PWA with a mobile-first responsive experience</li>
       </ul>
       <p align="center"><a href="https://github.com/caiquenovaes1994/BarbaraReisNailDesigner"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 GeoQuiz 3D</h3>
+      <p><i>Immersive geography challenge platform with a real-time rendered 3D globe powered by Three.js.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+      </p>
+      <ul>
+        <li>Robust backend with quiz logic and data persistence</li>
+        <li>Interactive 3D globe rendered in real time with Three.js</li>
+        <li>Gamified geography Q&A mechanics with dynamic scoring</li>
+      </ul>
+      <p align="center"><a href="https://github.com/caiquenovaes1994/GeoQuiz3D"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
   </tr>
   <tr>
@@ -167,19 +167,19 @@ Alongside my frontend journey, I have a keen interest in **Backend Development**
       <p align="center"><a href="https://github.com/caiquenovaes1994/WorldCup2026"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌍 GeoQuiz 3D</h3>
-      <p><i>Immersive geography challenge platform with a real-time rendered 3D globe powered by Three.js.</i></p>
+      <h3>📊 ServiceNow Dashboard</h3>
+      <p><i>Unified enterprise platform for real-time incident tracking, operational KPIs (NPS & SLA), and secure overtime management.</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
       <ul>
-        <li>Robust backend with quiz logic and data persistence</li>
-        <li>Interactive 3D globe rendered in real time with Three.js</li>
-        <li>Gamified geography Q&A mechanics with dynamic scoring</li>
+        <li>Real-time incident management with drag-and-drop prioritization & SLA tracking</li>
+        <li>Analytical dashboard with interactive KPI cards, Recharts & monthly drill-down</li>
+        <li>Secure overtime calculation with AES-256 encryption & executive PDF report export</li>
       </ul>
-      <p align="center"><a href="https://github.com/caiquenovaes1994/GeoQuiz3D"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
+      <p align="center"><a href="https://github.com/caiquenovaes1994/ServiceNowDashboard"><img src="https://img.shields.io/badge/View%20Repository-0f172a?style=flat&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
   </tr>
 </table>
